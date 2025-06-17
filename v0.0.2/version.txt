@@ -1,0 +1,2 @@
+v0.02
+yolov8m_skyeye2_freezed_200.hef
