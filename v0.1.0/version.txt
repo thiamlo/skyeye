@@ -1,2 +1,0 @@
-v0.1.0
-yolov8m_skyeye2_200.hef -> 20251216_test.hef
